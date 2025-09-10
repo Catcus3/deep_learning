@@ -2,4 +2,6 @@
 venv/
 venv311/
 params/
-data/
+vision_transformers/personal_tests/
+vision_transformers/grid_search_results_multilayer/
+data
